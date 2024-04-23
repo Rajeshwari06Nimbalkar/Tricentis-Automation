@@ -1,24 +1,23 @@
-# Tricentis-Automation
+## Tricentis-Automation
 Performed end-to-end Automation for TRICENTIS VEHICLE INSURANCE APPLICATION
 
-Tech Stack
+**Tech Stack**
 Automation Tool: Selenium WebDriver.
 
-Programming Language: Java
-
+**Programming Language: Java**
 Test Runner: TestNG used for organizing and executing test cases. Annotations like @Test, @BeforeMethod, @AfterMethod, @BeforeTest, and @AfterTest are part of TestNG.
 
-IDE: Eclipse IDE
+**IDE: Eclipse IDE**
 
-ChromeDriver: The WebDriver implementation used for interacting with the Chrome web browser.
+**ChromeDriver: The WebDriver implementation used for interacting with the Chrome web browser.**
 
-XPath: XPath expressions are used extensively to locate elements within the HTML structure of web pages.
+**XPath: XPath expressions are used extensively to locate elements within the HTML structure of web pages.**
 
-Select: A class provided by Selenium WebDriver for handling dropdowns and select elements.
+**Select: A class provided by Selenium WebDriver for handling dropdowns and select elements**
 
-Keys: An enum provided by Selenium WebDriver to simulate keyboard inputs.
+**Keys: An enum provided by Selenium WebDriver to simulate keyboard inputs.**
 
-Running Tests
+**Running Tests**
 Setup Environment: Ensure you have Java Development Kit (JDK) installed on your system. Set up your project directory structure and include the necessary libraries (TestNG, Selenium WebDriver, ChromeDriver).
 
 Write the Code: Copy the provided code into a Java class file within your project. Save it with a .java extension.
